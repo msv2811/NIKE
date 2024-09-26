@@ -14,6 +14,9 @@ This project is a modern and responsive Nike website design built using **React*
 ## Screenshots
 [screencapture-nike-one-blue-vercel-app-2024-09-27-00_19_34](https://github.com/user-attachments/assets/1a04b8ad-d42d-4325-ba9b-e906447e090b)
   
+## Live Demo
+
+You can check out the live demo of the project [here](https://nike-one-blue.vercel.app/).
 
 ## Installation and Setup
 
