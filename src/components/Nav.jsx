@@ -29,6 +29,7 @@ const Nav = () => {
 
             </ul>
             <div className='hidden max-lg:block'>
+                {/* divyanshu verma has merged this project to github using vs code extention git */}
                 <img 
                 src={hamburger} 
                 alt="Hamburger"
