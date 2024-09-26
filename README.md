@@ -1,4 +1,5 @@
 # NIKE ENHANCED DESIGN
+![image](https://github.com/user-attachments/assets/755ab922-907f-4784-8315-c6c7425433d2)
 
 This project is a modern and responsive Nike website design built using **React**, **Tailwind CSS**, and **Vite**. It showcases an enhanced user interface and a streamlined approach to building dynamic web applications.
 
