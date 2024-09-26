@@ -11,8 +11,8 @@ This project is a modern and responsive Nike website design built using **React*
 - **Fully responsive** across all devices
 
 ## Screenshots
-<!--![screencapture-nike-one-blue-vercel-app-2024-09-27-00_19_34](https://github.com/user-attachments/assets/1a04b8ad-d42d-4325-ba9b-e906447e090b)
-  -->
+[screencapture-nike-one-blue-vercel-app-2024-09-27-00_19_34](https://github.com/user-attachments/assets/1a04b8ad-d42d-4325-ba9b-e906447e090b)
+  
 
 ## Installation and Setup
 
@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/nike-enhanced-design.git
+   git clone (https://github.com/msv2811/NIKE.git)
    ```
 
 2. Navigate to the project directory:
